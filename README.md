@@ -1,5 +1,5 @@
 # Youtube Revanced (including forks) builds releases
-Repository for the releases of Youtube ReVanced builds compiled from YT-Advanced's rvx-builder with custom branding for identification. This tool can be found at: - https://github.com/YT-Advanced/rvx-builder
+Repository for the releases of Youtube ReVanced builds compiled from YT-Advanced's or inotia00's rvx-builder with custom branding for identification. This tool can be found at: - https://github.com/YT-Advanced/rvx-builder
 
 F.A.Q. available here - [https://pastebin.com/raw/HB2eB96F](https://bit.ly/rvxapkfaq)
 
