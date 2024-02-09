@@ -1,7 +1,7 @@
 # Youtube Revanced (including forks) builds releases
 Repository for the releases of Youtube ReVanced builds compiled from inotia00's rvx-builder with custom branding for identification. This tool can be found at: - https://github.com/YT-Advanced/rvx-builder
 
-F.A.Q. available here - [https://pastebin.com/raw/HB2eB96F](https://bit.ly/rvxapkfaq)
+F.A.Q. available here - https://pastebin.com/raw/HB2eB96F OR https://wbin.003274.xyz/doc/vhqqemsf
 
 The options.json file has been altered for custom branding but all credits go to inotia00  and the ReVanced Team for the original ReVanced and ReVanced Extended patches. I simply compile builds and release them here for convinience, please do not file issues because I will not be able to solve them.
 
