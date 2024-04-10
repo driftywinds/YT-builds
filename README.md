@@ -3,6 +3,8 @@ Repository for the releases of Youtube ReVanced builds compiled from ReVanced Ma
 
 [![Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/total.svg)](https://img.shields.io/github/downloads/driftywinds/YT-builds/total.svg) 
 
+[![Latest Release Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total.svg)](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total.svg) 
+
 ~~F.A.Q. available here - https://pastebin.com/raw/HB2eB96F OR https://wbin.003274.xyz/doc/vhqqemsf~~ This is deprecated, I will make a new one.
 
 The options.json file has been altered for custom branding but all credits go to inotia00 and the ReVanced Team for the original ReVanced and ReVanced Extended patches. I simply compile builds and release them here for convinience, please do not file issues because I will not be able to solve them.
