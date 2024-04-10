@@ -1,7 +1,7 @@
 # Youtube Revanced (including forks) builds releases
 Repository for the releases of Youtube ReVanced builds compiled from ReVanced Manager with custom branding for identification.
 
-[![Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/total.svg)](https://img.shields.io/github/downloads/driftywinds/YT-builds/total.svg) [![Latest Release Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total.svg)](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total.svg) 
+[![Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/total.svg)](https://img.shields.io/github/downloads/driftywinds/YT-builds/total.svg)    [![Latest Release Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total.svg)](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total.svg) 
 
 ~~F.A.Q. available here - https://pastebin.com/raw/HB2eB96F OR https://wbin.003274.xyz/doc/vhqqemsf~~ This is deprecated, I will make a new one.
 
