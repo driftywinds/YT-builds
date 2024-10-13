@@ -4,6 +4,10 @@ Repository for the releases of Youtube ReVanced builds compiled from ReVanced Ma
 > [!IMPORTANT]  
 > NEW: - I have an F-Droid repo available [here](https://files.drifty.win/repo/) as a backup in case GitHub ever takes this repository down. It includes YT Music builds too.
 
+> [!TIP]
+> Builds are also availble on my Telegram channel [here](https://t.me/YTRXbuilds).
+
+
 [![Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/YT-builds/total?style=for-the-badge) [![Latest Release Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total?style=for-the-badge) 
 
 ~~F.A.Q. available here - https://pastebin.com/raw/HB2eB96F OR https://wbin.003274.xyz/doc/vhqqemsf~~ This is deprecated, I will make a new one.
