@@ -9,7 +9,7 @@ Repository for the releases of Youtube ReVanced builds compiled from ReVanced Ma
 
 [![Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/YT-builds/total?style=for-the-badge) [![Latest Release Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total?style=for-the-badge) 
 
-<img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" width="320" height="100">
+<img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" width="200" height="60">
 
 For people looking for YouTube Music builds: - [driftywinds/ytm-builds](https://github.com/driftywinds/ytm-builds)
 
