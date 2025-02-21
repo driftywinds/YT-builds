@@ -34,15 +34,17 @@ Some other projects of mine: -
 
 [<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=ytm-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
     alt="YTM builds"
-    height="95">](https://github.com/driftywinds/ytm-builds)
+    height="120">](https://github.com/driftywinds/ytm-builds)
 &nbsp;
 [<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=mixplorer-releases&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
     alt="MiXplorer Releases"
-    height="95">](https://github.com/driftywinds/mixplorer-releases)
+    height="120">](https://github.com/driftywinds/mixplorer-releases)
 &nbsp;
+
+
 [<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=balatro-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
     alt="Balatro builds"
-    height="95">](https://github.com/driftywinds/balatro-builds)
+    height="120">](https://github.com/driftywinds/balatro-builds)
 
 ----
 
