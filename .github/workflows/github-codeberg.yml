@@ -24,6 +24,6 @@ jobs:
       - name: "Sync repo"
         uses: spyoungtech/mirror-action@master
         with:
-          REMOTE: "${{ vars.FORGEJO_BASE_URL }}${{ vars.FORGEJO_REPO }}.git"
-          GIT_USERNAME: ${{ vars.FORGEJO_USERNAME }}
+          REMOTE: "https://codeberg.org/driftywinds/yt-builds.git"
+          GIT_USERNAME: driftywinds
           GIT_PASSWORD: ${{ secrets._FORGEJO_TOKEN }}
