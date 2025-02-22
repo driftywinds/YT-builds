@@ -1,0 +1,11 @@
+on: [push]
+  ...
+      steps:
+        - uses: actions/checkout@v3
+          with:
+            fetch-depth: 0
+        - uses: yesolutions/mirror-action@master
+          with:
+            REMOTE: 'https://codeberg.org/driftywinds/yt-builds.git'
+            GIT_USERNAME: driftywinds
+            GIT_PASSWORD: ${{ secrets.GIT_PASSWORD }}
