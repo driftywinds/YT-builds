@@ -11,7 +11,7 @@ Repository for the releases of Youtube Morphe builds compiled from Morphe Manage
 
 [![Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/YT-builds/total?style=for-the-badge) [![Latest Release Downloads](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/YT-builds/latest/total?style=for-the-badge) 
 
-[<img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png"
+[<img src="https://raw.githubusercontent.com/driftywinds/driftywinds/refs/heads/main/Images/custom_badge_obtainium.png"
     alt="Get it on Obtanium"
     height="75">](https://github.com/driftywinds/yt-builds/releases)
 &nbsp;&nbsp;&nbsp;
