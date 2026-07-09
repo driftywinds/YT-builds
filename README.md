@@ -1,4 +1,4 @@
-# Youtube Revanced (including forks like Morphe) builds releases
+# Youtube Morphe (including forks) builds releases
 Repository for the releases of Youtube Morphe builds compiled from Morphe Manager with custom branding for identification.
 
 > [!IMPORTANT]  
