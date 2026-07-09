@@ -52,4 +52,10 @@ Some other projects of mine: -
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=driftywinds/yt-builds&type=Date)](https://star-history.com/#driftywinds/yt-builds&Date)
+<a href="https://www.star-history.com/?repos=driftywinds%2Fyt-builds&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=driftywinds/yt-builds&type=date&theme=dark&legend=top-left&sealed_token=vse2asmbtFmlzGQoXu4-FMsUjSFzITgvQPPj6rb-qwHzpaAfMnqn-vB4nzApIgwaHx-t4v9UMk4N5vTeVAqXisBbTCnsGeA68Yv05V6vSlYGwX3PAYnmgA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=driftywinds/yt-builds&type=date&legend=top-left&sealed_token=vse2asmbtFmlzGQoXu4-FMsUjSFzITgvQPPj6rb-qwHzpaAfMnqn-vB4nzApIgwaHx-t4v9UMk4N5vTeVAqXisBbTCnsGeA68Yv05V6vSlYGwX3PAYnmgA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=driftywinds/yt-builds&type=date&legend=top-left&sealed_token=vse2asmbtFmlzGQoXu4-FMsUjSFzITgvQPPj6rb-qwHzpaAfMnqn-vB4nzApIgwaHx-t4v9UMk4N5vTeVAqXisBbTCnsGeA68Yv05V6vSlYGwX3PAYnmgA" />
+ </picture>
+</a>
